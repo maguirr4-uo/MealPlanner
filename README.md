@@ -2,7 +2,15 @@
 
 ## Authors
 
-Antonio Silva Paucar, Lindsay Marean, Bria Gray, Max Aguirre
+Max Aguirre, Antonio Silva Paucar, Lindsay Marean, Bria Gray
+
+## Disclaimer
+
+This project is a forked copy from another repository that I worked on at the University of Oregon in Fall 2020. 
+
+In its current state, it makes use of a database that a different author has set up. I advise not using this app until I can set up my own
+
+~ Max Aguirre
 
 ## Description
 
