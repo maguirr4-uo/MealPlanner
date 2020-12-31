@@ -8,7 +8,9 @@ Max Aguirre, Antonio Silva Paucar, Lindsay Marean, Bria Gray
 
 This project is a forked copy from another repository that I worked on at the University of Oregon in Fall 2020. 
 
-In its current state, it makes use of a database that a different author has set up. I advise not using this app until I can set up my own
+In its current state, it makes use of a database that a different author has set up. I advise not using the Heroku app until I can set up my own.
+
+To run the application on your local machine, follow the instructions in the build.txt document, in the Docs directory.
 
 ~ Max Aguirre
 
