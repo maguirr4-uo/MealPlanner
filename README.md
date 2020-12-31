@@ -12,6 +12,8 @@ The version of the app deployed on Heroku makes use of a database that a differe
 
 To run the application on your local machine, follow the instructions in the build.txt document, in the Docs directory.
 
+The application overall is a little rough around the edges. If I have free time from college, I may take some time to polish it.
+
 ~ Max Aguirre
 
 ## Description
